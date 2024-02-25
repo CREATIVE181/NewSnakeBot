@@ -1,9 +1,9 @@
 import asyncio
 
 from CONFIG.CONFIG import *
-from src.handlers import mini_app
+from src.handlers import shop
 
-mini_app.activate.activate(dp)
+shop.activate.activate(dp)
 
 async def start():
 
