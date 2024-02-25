@@ -1,0 +1,1 @@
+HOST = 'mongodb://root:SnakeBot2024@45.90.219.10:24754/?authMechanism=DEFAULT'
